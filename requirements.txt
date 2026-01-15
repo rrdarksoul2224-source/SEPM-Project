@@ -1,0 +1,8 @@
+flask
+ultralytics
+opencv-python
+easyocr
+pandas
+numpy
+torch
+xmltodict
