@@ -1,0 +1,18 @@
+# Environments
+r_env/
+Frontend/node_modules/
+.env
+
+# Data and Results
+plates_data/
+runs/
+
+# Large Files
+*.mp4
+*.pt
+*.zip
+*.png
+
+# Python cache
+__pycache__/
+*.pyc
